@@ -1,0 +1,19 @@
+#messi{
+    width: 600px;
+}
+#balon{
+    width: 600px;
+}
+#botines{
+    width: 600px;
+}
+#cardcompra{
+    display: flex;
+    justify-content: center;
+
+}
+#Barradenavegación3{
+    display: flex;
+    justify-content: center;
+    color: rgb(6, 16, 100);
+}

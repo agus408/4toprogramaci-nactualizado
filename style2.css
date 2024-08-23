@@ -1,0 +1,21 @@
+#imagenesyinformación{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: darkcyan;
+}
+
+#Barradenavegación2{
+    display: flex;
+    justify-content: center;
+    color: rgb(182, 30, 30);
+}

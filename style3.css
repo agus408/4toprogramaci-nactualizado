@@ -1,0 +1,13 @@
+#Barradenavegación3{
+    display: flex;
+    justify-content: center;
+    color: rgb(53, 9, 9);
+
+}
+#cardtickets{
+    display: flex;
+    justify-content: center;
+}
+#oro{
+    height: 400px;
+}
